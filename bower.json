@@ -1,0 +1,20 @@
+{
+  "name": "TutorialBower",
+  "version": "1.0.0",
+  "homepage": "https://github.com/albertoom/tutorialBower.git",
+  "authors": [
+    "AlbertoFernandez <alberto.fernandez@optivamedia.com>"
+  ],
+  "description": "Tutorial de Bower hecho por Optiva media",
+  "main": "tutorialBower.zip",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "tutorial",
+    "bower",
+    "optiva",
+    "media"
+  ],
+  "license": "MIT"
+, "ignore":["bower.json"] }
